@@ -9,3 +9,5 @@ Ubuntu X64 ubuntu 20.04 focal fossa , not ubuntu 18.10.19.10 , alternative drive
 Mesa deb download + instructions: https://yadi.sk/d/Vi7NLBhkRDwz5Q
 
 Wayland test 4K and 8K Video
+
+Очень хороший отклик ранее тот же benchmark показывал всего 2000 на данный момент если регулировать яркость экрана ползунком с верхней панели гнома то ползунок не отстает и не догоняет как ранее это было что говорило об отставании отклика команды на исполнение.
